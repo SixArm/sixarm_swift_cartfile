@@ -1,0 +1,7 @@
+github "robrix/Memo"  # µframework of Memo, a lazily memoized value.
+github "robrix/Prelude"  # µframework of unctional programming tools
+github "robrix/Either"  # µframework of Either, which represents two alternatives
+github "robrix/Box"  # µframework of Box<T> & MutableBox<T> reference types
+github "robrix/Traversal"  # Enumeration & iteration of collections
+github "thoughtbot/Argo"  #  Functional JSON parsing library for Swift
+github "thoughtbot/Runes"  # Functional operators for Swift
